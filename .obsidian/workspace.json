@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "dc1b1c2ecd71df39",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e985eb3341f67c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "212b47517e0f6d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7a52647f54f11b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db15d03e3e72a7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6082aa3eeca4d3de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc3aef1ebe5675dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "straat",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2026cc6aaf4d5cbd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f15cef759af8aa28",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc3b1fb89def6a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7525a01fb1ea43ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97d0fe8183412813",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50e0a0d5cb613deb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6060ca75498d34ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "fc3aef1ebe5675dd",
+  "lastOpenFiles": [
+    "CONTRIBUTING.md",
+    "_pages/teaching.md",
+    "_pages/repositories.md",
+    "_pages/publications.md",
+    "_pages/projects.md",
+    "_pages/dropdown.md",
+    "_pages/cv.md",
+    "_pages/about.md",
+    "README.md"
+  ]
+}
